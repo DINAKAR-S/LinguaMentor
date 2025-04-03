@@ -109,22 +109,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## **Contact**:
 
-For questions or inquiries, feel free to reach out to me via GitHub or email at [your-email@example.com].
+For questions or inquiries, feel free to reach out to me via GitHub or email at [dinakars2003@gmail.com].
 
 ---
 
 ```
-
----
-
-### Explanation of Sections:
-
-- **Project Overview**: Brief description of the chatbot and its functionalities.
-- **Tech Stack**: Lists technologies used in the project.
-- **Installation Instructions**: Guides to clone, install, and run the project.
-- **Usage**: How to interact with the chatbot and its features.
-- **Contributing**: Instructions for contributing to the project.
-- **License**: Information about the project's licensing.
-- **Contact**: Optional, for users to get in touch.
-
----
