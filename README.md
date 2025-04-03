@@ -1,8 +1,3 @@
-Here’s the **GitHub README.md** for your project **LinguaMentor**, including detailed sections for the backend setup, usage instructions, and more:
-
----
-
-```markdown
 # LinguaMentor
 
 LinguaMentor is an interactive language-learning chatbot that helps users learn new languages through practical scenarios. It utilizes AI-powered feedback and mistake correction to provide personalized language practice, focusing on real-world conversations. The chatbot tracks user progress, logs mistakes, and offers valuable insights to enhance learning.
