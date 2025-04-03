@@ -8,7 +8,7 @@ from prompt_templates import language_tutor_prompt
 app = FastAPI()
 init_db()
 
-OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "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")
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "your-api-key")
 
 class ChatRequest(BaseModel):
     known_language: str
