@@ -45,7 +45,7 @@ def chat(req: ChatRequest):
     )
 
     payload = {
-        "model": "deepseek/deepseek-r1-zero:free",
+        "model": "meta-llama/llama-4-scout:free",
         "messages": [
             {"role": "system", "content": "You are a helpful language tutor."},
             {"role": "user", "content": prompt}
